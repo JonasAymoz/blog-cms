@@ -6,6 +6,8 @@ navtitle: Home
 tags:
   - nav
 ---
+![](/static/img/capture-d’écran-2019-03-25-à-18.43.50.png)
+
 ```
 welcome to the shit Welcome
 ```
